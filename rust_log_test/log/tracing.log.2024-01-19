@@ -1,0 +1,8 @@
+2024-01-19T14:02:28.995 TRACE test_trace{n=33}: log_test: trace2: test_trace answer=42
+2024-01-19T14:02:28.996 TRACE test_trace{n=33}: log_test: trace1: test_trace answer=42
+2024-01-19T14:02:28.996  INFO test_trace{n=33}: log_test: info1: test_trace answer=42
+2024-01-19T14:02:28.996 TRACE log_test: tracing-trace
+2024-01-19T14:02:28.996 DEBUG log_test: tracing-debug
+2024-01-19T14:02:28.996  INFO log_test: tracing-info
+2024-01-19T14:02:28.996  WARN log_test: tracing-warn
+2024-01-19T14:02:28.996 ERROR log_test: tracing-error
